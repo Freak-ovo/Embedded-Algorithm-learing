@@ -1,0 +1,29 @@
+# C/C++编译生成文件
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+
+# 调试及覆盖率文件
+*.gcda
+*.gcno
+*.gcov
+core
+core.*
+
+# 构建目录
+build/
+bin/
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
